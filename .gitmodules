@@ -2,3 +2,8 @@
 	path = suppliot_standard/odoo_module_sale_datanorm
 	url = git@github.com:SUPPLIoT/odoo_module_sale_datanorm.git
 	branch = 14.0
+
+[submodule "suppliot_standard/odoo_module_collection"]
+	path = suppliot_standard/odoo_module_collection
+	url = git@github.com:SUPPLIoT/odoo_module_collection.git
+	branch = 14.0
