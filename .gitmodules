@@ -17,3 +17,8 @@
 	path = suppliot_standard/odoo_module_fileupload_size
 	url = git@github.com:SUPPLIoT/odoo_module_fileupload_size.git
 	branch = 14.0
+
+[submodule "suppliot_standard/odoo_module_hr"]
+	path = suppliot_standard/odoo_module_hr
+	url = git@github.com:SUPPLIoT/odoo_module_hr.git
+	branch = 14.0-dev
